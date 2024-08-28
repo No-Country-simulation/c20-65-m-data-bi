@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src=""  hei![Blue and White Modern Digital Marketing Logo](https://github.com/user-attachments/assets/3a54fcce-9615-48ec-97fd-c6e8116d483c)
-ght="400">
+  <img src="https://github.com/No-Country-simulation/c20-65-m-data-bi/blob/main/Imagenes/Blue%20and%20White%20Modern%20Digital%20Marketing%20Logo.png?raw=true" height="400">
 <p align="center">
 
 

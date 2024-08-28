@@ -105,7 +105,7 @@
 |                               |
 | <img width="60" height="60" src= "https://raw.githubusercontent.com/No-Country-simulation/c20-65-m-data-bi/9644ab253c8eef2015474f904d712e2593e92b12/Imagenes/Nahuel.jpg?token=A3HXXKJXSEAA3Y5LBNY3VDTGZ5NUO"/> | Nahuel | Data scientist | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Nahuelk99) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
 |                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/146049325?v=4" /> | Diana Yazmin Joaqín Antonio | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/YazminJoandi) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-yazm%C3%ADn)                         |
+| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/146049325?v=4" /> | Diana Yazmin Joaquín Antonio | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/YazminJoandi) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-yazm%C3%ADn)                         |
 |                               |
 | <img width="60" height="60" src="https://raw.githubusercontent.com/No-Country-simulation/c20-65-m-data-bi/9644ab253c8eef2015474f904d712e2593e92b12/Imagenes/Vanesa.jpg?token=A3HXXKMMVSVBZI5UENRSIXDGZ5NUO" /> | Vanessa Morales | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/VaneM0rales) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
 

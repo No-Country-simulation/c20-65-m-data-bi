@@ -145,6 +145,8 @@
 [![Slack](https://img.shields.io/badge/Chat-Slack-4A154B)](https://slack.com/)
 [![Google Meet](https://img.shields.io/badge/Tool-Google%20Meet-4285F4)](https://meet.google.com/)
 [![Google Drive](https://img.shields.io/badge/Tool-Google%20Drive-34A853)](https://drive.google.com/)
+[![Trello](https://img.shields.io/badge/Scrum-Trello-uva)](https://trello.com/)
+
 
 
 

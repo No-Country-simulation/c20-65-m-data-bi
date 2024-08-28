@@ -1,6 +1,11 @@
 # <h1 align="center">_Analistas De Vida_</h1>
 
 
+<p align="center">
+  <img src="C:\Users\miass\OneDrive\Documentos\No Country\Imagenes\Blue and White Modern Digital Marketing Logo.png"  height="400">
+<p align="center">
+
+
 
 
 

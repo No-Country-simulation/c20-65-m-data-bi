@@ -38,7 +38,7 @@
 
 
 
-#Tecnologías
+#Tecnologías#
 
 Visual Studio Code Python Jupyter Pandas Matplotlib Seaborn scikit-learn Streamlit GitHub Git Power BI Discord Slack Google Meet Google Drive
 

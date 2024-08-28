@@ -103,7 +103,7 @@
 | ----------------------------- | -------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/114260905?s=96&v=4" /> | Leidy Milena Loaiza | Analista BI  | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/leymilena2531) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/leidy-milena-loaiza)                         |
 |                               |
-| <img width="60" height="60" src="C:\Users\miass\OneDrive\Documentos\No Country\T02KS88FB0E-U07GDG31YTH-12c56ea0d267-512.jpg" /> | Nahuel | Data scientist | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Nahuelk99) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
+| <img width="60" height="60" src= "C:\Users\miass\OneDrive\Documentos\No Country\T02KS88FB0E-U07H9P6QMMW-dc045969ff41-512.jpg"/> | Nahuel | Data scientist | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Nahuelk99) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/146049325?v=4" /> | Diana Yazmin Joaqín Antonio | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/YazminJoandi) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-yazm%C3%ADn)                         |
 |                               |

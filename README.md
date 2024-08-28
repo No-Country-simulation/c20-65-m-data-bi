@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="C:\Users\miass\OneDrive\Documentos\No Country\Imagenes\Blue and White Modern Digital Marketing Logo.png"  height="400">
+  <img src=""  hei![Blue and White Modern Digital Marketing Logo](https://github.com/user-attachments/assets/3a54fcce-9615-48ec-97fd-c6e8116d483c)
+ght="400">
 <p align="center">
 
 

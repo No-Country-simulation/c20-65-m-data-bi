@@ -30,7 +30,10 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 # Componentes:
 
 
-**Recopilación y Preparación de Datos:**
+
+
+
+## Recopilación y Preparación de Datos:
 
 
 *Fuente de Datos:* Utilizamos los datos de los centros de diálisis de Medicare.
@@ -42,7 +45,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Análisis Exploratorio de Datos (EDA):**
+## Análisis Exploratorio de Datos (EDA):
 
 -Realiza un análisis exploratorio para identificar patrones y relaciones entre las variables.
 
@@ -51,7 +54,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Selección de Características:**
+## Selección de Características:
 
 -Utilizamos técnicas de selección de características para identificar las variables más relevantes para la predicción de readmisión.
 
@@ -59,7 +62,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Desarrollo del Modelo Predictivo:**
+## Desarrollo del Modelo Predictivo:
 
 *Modelo Inicial:* Implementamos un modelo de regresión logística para predecir la probabilidad de readmisión.
 
@@ -70,7 +73,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Implementación y Visualización:**
+## Implementación y Visualización:
 
 
 *Dashboard en Power BI:* Creamos un dashboard interactivo en Power BI para visualizar las predicciones de readmisión y las características de los pacientes.
@@ -80,7 +83,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Documentación y Presentación:**
+## Documentación y Presentación:
 
 -Documentamos el proceso de desarrollo del modelo, incluyendo la preparación de datos, el análisis exploratorio, la selección de características y la evaluación del modelo.
 
@@ -88,7 +91,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 
 
 
-**Pasos Adicionales:**
+## Pasos Adicionales:
 
 *Optimización del Modelo:* Experimenta con otros algoritmos de aprendizaje automático como árboles de decisión, Random Forests o redes neuronales para mejorar la precisión del modelo.
 

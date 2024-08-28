@@ -1,4 +1,4 @@
-# <h1 align="center">_Analistas De Vida_</h1>
+## <h1 align="center">_Analistas De Vida_</h1>
 
 
 <p align="center">
@@ -6,6 +6,38 @@
 <p align="center">
 
 
+## <h1 align="center">PROYECTO READMISIONES HOSPITALARIAS</h1>
+<p align="center"> 
+  
+*Centros de diálisis de Medicare*
+
+# Objetivo del Proyecto:
+Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de pacientes en centros de diálisis certificados por Medicare.
+
+# Componentes:
+** Recopilación y Preparación de Datos: **
+*Fuente de Datos:* Utiliza los datos de los centros de diálisis de Medicare.
+Variables: Incluye características de los pacientes (edad, género, comorbilidades), patrones de tratamiento (frecuencia de diálisis, tipo de tratamiento), hospitalización previa, mortalidad y patrones de trasplante.
+Limpieza de Datos: Elimina valores atípicos y datos faltantes, y transforma las variables categóricas en numéricas.
+Análisis Exploratorio de Datos (EDA):
+Realiza un análisis exploratorio para identificar patrones y relaciones entre las variables.
+Visualiza la distribución de las variables y la tasa de readmisión.
+Selección de Características:
+Utiliza técnicas de selección de características para identificar las variables más relevantes para la predicción de readmisión.
+Considera la correlación entre las variables y la readmisión.
+Desarrollo del Modelo Predictivo:
+Modelo Inicial: Implementa un modelo de regresión logística para predecir la probabilidad de readmisión.
+Entrenamiento y Validación: Divide los datos en conjuntos de entrenamiento y prueba. Entrena el modelo con los datos de entrenamiento y evalúa su rendimiento con los datos de prueba.
+Métricas de Evaluación: Utiliza métricas como precisión, recall, F1-score y AUC-ROC para evaluar el rendimiento del modelo.
+Implementación y Visualización:
+Dashboard en Power BI: Crea un dashboard interactivo en Power BI para visualizar las predicciones de readmisión y las características de los pacientes.
+Alertas: Implementa alertas para identificar pacientes con alta probabilidad de readmisión.
+Documentación y Presentación:
+Documenta el proceso de desarrollo del modelo, incluyendo la preparación de datos, el análisis exploratorio, la selección de características y la evaluación del modelo.
+Prepara una presentación para mostrar los resultados y las visualizaciones del dashboard.
+Pasos Adicionales:
+Optimización del Modelo: Experimenta con otros algoritmos de aprendizaje automático como árboles de decisión, Random Forests o redes neuronales para mejorar la precisión del modelo.
+Validación Cruzada: Realiza validación cruzada para asegurar la robustez del modelo.
 
 
 

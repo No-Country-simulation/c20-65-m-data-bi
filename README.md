@@ -141,7 +141,7 @@
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
-[![Discord](https://img.shields.io/badge/Chat-Discord-blueviolet)](https://discord.com/)
+[![Whatsapp](https://img.shields.io/badge/Chat-Whatsapp-forest)](https://whatsapp.com/)
 [![Slack](https://img.shields.io/badge/Chat-Slack-4A154B)](https://slack.com/)
 [![Google Meet](https://img.shields.io/badge/Tool-Google%20Meet-4285F4)](https://meet.google.com/)
 [![Google Drive](https://img.shields.io/badge/Tool-Google%20Drive-34A853)](https://drive.google.com/)

@@ -13,7 +13,7 @@
 
 
 
-## <h1 align="center">PROYECTO READMISIONES HOSPITALARIAS</h1>
+## <h1 align="center">DIALYSISPREDICT</h1>
 <p align="center"> 
   
 

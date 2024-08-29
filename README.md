@@ -13,7 +13,7 @@
 
 
 
-## <h1 align="center">DIALYSISPREDICT</h1>
+## <h1 align="center">DIALYSIS PREDICT</h1>
 <p align="center"> 
   
 

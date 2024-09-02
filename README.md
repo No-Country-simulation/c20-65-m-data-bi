@@ -22,7 +22,7 @@
 
 
 
-# Objetivo del Proyecto:
+### Objetivo del Proyecto:
 Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de pacientes en centros de diálisis certificados por Medicare.
 
 

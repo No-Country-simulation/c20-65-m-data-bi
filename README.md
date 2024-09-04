@@ -228,7 +228,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
-[![IA](https://img.shields.io/badge/Framework-ChatGPt-brown)](https://chatgpt.com/)
+[![IA](https://img.shields.io/badge/IA-ChatGPt-brown)](https://chatgpt.com/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)

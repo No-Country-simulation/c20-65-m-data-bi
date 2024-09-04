@@ -200,8 +200,6 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 |                               |
 | <img width="60" height="60" src= "https://github.com/No-Country-simulation/c20-65-m-data-bi/blob/main/Imagenes/Nahuel.jpg"/> | Nahuel | Data scientist | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Nahuelk99) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
 |                               |
-| <img width="60" height="60" src="https://github.com/No-Country-simulation/c20-65-m-data-bi/blob/main/Imagenes/Vanesa.jpg" /> | Vanessa Morales | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/VaneM0rales) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]()                         |
-
 
 
 
@@ -230,7 +228,7 @@ Desarrollar un modelo predictivo para predecir la probabilidad de readmisión de
 [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
+[![IA](https://img.shields.io/badge/Framework-ChatGPt-brown)](https://chatgpt.com/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
